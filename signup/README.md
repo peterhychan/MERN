@@ -1,4 +1,5 @@
-#Subscription Demo
+
+# Subscription Demo
 
 ### Tech Stacks:
 1. HTML
@@ -7,17 +8,11 @@
 4. MailChimp API
 
 
-###Installation (Locally)
+### Installation (Locally)
 
 ```bash
 npm install
 npm run dev
 ```
 #### Alternative:
-Click the image below to access the deployed application.
-
-Image:
-
-
-
-
+Deployed application on [Heroku](https://peterhychan-subscription.herokuapp.com/) 
