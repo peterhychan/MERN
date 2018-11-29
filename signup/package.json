@@ -1,0 +1,26 @@
+{
+  "name": "signup",
+  "version": "1.0.0",
+  "description": "A Simple signup system for my Yearly update",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "keywords": [
+    "signup"
+  ],
+  "author": "Peter (Ho Yeung)",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.7"
+  },
+  "engines": {
+    "node": "10.13.0"
+  }
+}
